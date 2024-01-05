@@ -5,11 +5,6 @@ This project is a web application built with Vite, React, and Tailwind CSS. It p
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Build](#build)
-- [Additional Commands](#additional-commands)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
