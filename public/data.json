@@ -1,0 +1,83 @@
+[
+	{
+		"date": "16/2/23",
+		"month": "Feb",
+		"year": 2023,
+		"supplier": "Adani",
+		"emissions": 2205,
+		"revenue": 220000,
+		"er": 99.8
+	},
+	{
+		"date": "17/3/23",
+		"month": "Mar",
+		"year": 2023,
+		"supplier": "Reliance",
+		"emissions": 2251,
+		"revenue": 254815,
+		"er": 113.2
+	},
+	{
+		"date": "6/4/23",
+		"month": "Apr",
+		"year": 2023,
+		"supplier": "Shaurya Drugs",
+		"emissions": 4522,
+		"revenue": 879797,
+		"er": 194.6
+	},
+	{
+		"date": "12/5/23",
+		"month": "May",
+		"year": 2023,
+		"supplier": "Orlife Healthcare",
+		"emissions": 8522,
+		"revenue": 464464,
+		"er": 54.5
+	},
+	{
+		"date": "11/8/23",
+		"month": "Aug",
+		"year": 2023,
+		"supplier": "Rezicure Pharmaceuticals",
+		"emissions": 1124,
+		"revenue": 548582,
+		"er": 488.1
+	},
+	{
+		"date": "6/10/23",
+		"month": "Oct",
+		"year": 2023,
+		"supplier": "Steller Bio Labs",
+		"emissions": 4524,
+		"revenue": 516513,
+		"er": 114.2
+	},
+	{
+		"date": "8/9/23",
+		"month": "Sep",
+		"year": 2023,
+		"supplier": "Ruzette Organics",
+		"emissions": 7858,
+		"revenue": 564651,
+		"er": 71.9
+	},
+	{
+		"date": "11/8/23",
+		"month": "Aug",
+		"year": 2023,
+		"supplier": "Merion Care",
+		"emissions": 5258,
+		"revenue": 565556,
+		"er": 107.6
+	},
+	{
+		"date": "10/11/23",
+		"month": "Nov",
+		"year": 2023,
+		"supplier": "Eskos Pharma",
+		"emissions": 4524,
+		"revenue": 546561,
+		"er": 120.8
+	}
+]
